@@ -4,7 +4,7 @@
 # IP-CIDR,142.171.133.131/32,no-resolve
 # IP-CIDR,103.115.43.2/32,no-resolve
 
-# Framer
+# Framer & figma
 DOMAIN-SUFFIX,framer.com
 DOMAIN-SUFFIX,figma.com
 
